@@ -9,7 +9,6 @@ node index.js
 ```
 \
 \
-\
 If you cloned the repository using Git, do this:
 ```
 cd The-FRES-Bot
