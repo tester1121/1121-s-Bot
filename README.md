@@ -22,7 +22,8 @@ Prefix | Command | Message | Response
 ! | Hello | !Hello | If there is a command for that message, then yes.
 
 5. Add your bot to your Discord server. If you do not know how to do this, find a guide on Google.
-6. Open Terminal or Command Prompt.
+6. Download Node.js
+7. Open Terminal or Command Prompt.
 
 If you are on Windows with Command Prompt, click [here.](https://www.google.com)
 
