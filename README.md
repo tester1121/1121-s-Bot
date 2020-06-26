@@ -25,7 +25,7 @@ Prefix | Command | Message | Response
 6. Download Node.js
 7. Open Terminal or Command Prompt.
 
-If you are on Windows with Command Prompt, click [here.](https://www.google.com)
+If you are on Windows with Command Prompt, click [here.](WINDOWS.md)
 
 If you are on Mac with Terminal, click [here.](https://www.google.com)
 
