@@ -1,15 +1,12 @@
 const Discord = require('discord.js');
 
 // bot = client
-
 const bot = new Discord.Client();
 
 //Don't forget to add your token!!!
-
 const token = 'your-token-here';.
 
 // Add the prefix.
-
 const PREFIX = 'your-prefix-here';
 
 const version = '0.6.5';
