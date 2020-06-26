@@ -27,6 +27,6 @@ Prefix | Command | Message | Response
 
 If you are on Windows with Command Prompt, click [here.](WINDOWS.md)
 
-If you are on Mac with Terminal, click [here.](https://www.google.com)
+If you are on macOS with Terminal, click [here.](MACOS.md)
 
 If you are on Linux or Debian, click [here.](https://www.google.com)
