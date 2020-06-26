@@ -30,3 +30,5 @@ If you are on Windows with Command Prompt, click [here.](WINDOWS.md)
 If you are on macOS with Terminal, click [here.](MACOS.md)
 
 If you are on Linux or Debian, click [here.](LINUX.md)
+
+A note on using the packages for The-FRES-Bot [here](https://www.google.com)
