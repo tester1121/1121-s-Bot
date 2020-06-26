@@ -10,18 +10,22 @@ To use the FRES Bot, do this:
 const token = 'your-token-here';
 ```
 If you do not know how to get a bot token, follow this guide: https://www.writebots.com/discord-bot-token/.
+
 4. Change the prefix in index.js. Change the 'your-prefix-here' in this line of code in index.js:
 ```javascript
 const PREFIX = 'your-prefix-here';
 ```
 Prefix: the symbol(s) before the message, to make the bot respond to your message. Ex:
+Prefix | Command | Message | Response
+------ | ------- | ------- | --------
+! | Hello | Hello | No
+! | Hello | !Hello | If there is a command for that message, then yes.
 
-Prefix: !    Message: Hello   Response: Yes
-
-Prefix: !    Message: !Hello  Response: If there is a command for that message.
 5. Add your bot to your Discord server. If you do not know how to do this, find a guide on Google.
 6. Open Terminal or Command Prompt.
-7. Follow the steps below.
-7a. If you are on Windows with Command Prompt, click [here](https://www.google.com)
-7b. If you are on Mac with Terminal, click [here](https://www.google.com)
-7c. If you are on Linux or Debian, click [here](https://www.google.com)
+
+If you are on Windows with Command Prompt, click [here.](https://www.google.com)
+
+If you are on Mac with Terminal, click [here.](https://www.google.com)
+
+If you are on Linux or Debian, click [here.](https://www.google.com)
