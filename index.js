@@ -66,6 +66,12 @@ bot.on('message', message=>{
                     break;
             }
             break;
+            case '1121\'s Bot':
+            const three12 = new Discord.MessageEmbed()
+                .setTitle('Yes')
+                .addField('Yes, I am 1121\s Bot.', '\u200b')
+            message.channel.send(three12)
+            break;
             
             // Add more commands here.
 
