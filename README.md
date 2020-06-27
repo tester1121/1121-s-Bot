@@ -1,7 +1,7 @@
-# The FRES Bot
+# 1121's Bot
 Hello there!
 
-To use the FRES Bot, do this:
+To use 1121's Bot, do this:
 
 1. Clone this repository.
 2. Open up index.js in any code editor.
@@ -21,7 +21,7 @@ Prefix | Command | Message | Response
 ! | Hello | Hello | No
 ! | Hello | !Hello | If there is a command for that message, then yes.
 
-5. Add your bot to your Discord server. If you do not know how to do this, find a guide on Google.
+5. Add the bot to your Discord server. If you do not know how to do this, find a guide on Google.
 6. Download Node.js
 7. Open Terminal or Command Prompt.
 
@@ -32,4 +32,4 @@ If you are on macOS with Terminal, click [here.](MACOS.md)
 If you are on Linux or Debian, click [here.](LINUX.md)
 \
 \
-Want to add something to the FRES Bot? Tell me in Issue #1.
+Want to add something to 1121's Bot? Tell me in Issue #1.
