@@ -30,3 +30,6 @@ If you are on Windows with Command Prompt, click [here.](WINDOWS.md)
 If you are on macOS with Terminal, click [here.](MACOS.md)
 
 If you are on Linux or Debian, click [here.](LINUX.md)
+\
+\
+Want to add something to the FRES Bot? Tell me in Issue #1.
